@@ -1,0 +1,27 @@
+[
+  {
+    "DEPT_ID": 1,
+    "DEPT_NOME": "Administrativo",
+    "DEPT_LOCAL": "SIDNEY"
+  },
+  {
+    "DEPT_ID": 2,
+    "DEPT_NOME": "Financeiro",
+    "DEPT_LOCAL": "MELBOURNE"
+  },
+  {
+    "DEPT_ID": 3,
+    "DEPT_NOME": "Comercial",
+    "DEPT_LOCAL": "HONG KONG"
+  },
+  {
+    "DEPT_ID": 4,
+    "DEPT_NOME": "TI",
+    "DEPT_LOCAL": "MUMBAI"
+  },
+  {
+    "DEPT_ID": 5,
+    "DEPT_NOME": "Produto",
+    "DEPT_LOCAL": "NEW YORK"
+  }
+]
